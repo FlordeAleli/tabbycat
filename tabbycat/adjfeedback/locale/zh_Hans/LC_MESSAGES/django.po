@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-20 23:12-0500\n"
-"PO-Revision-Date: 2020-03-17 15:59\n"
+"PO-Revision-Date: 2020-03-25 16:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -291,7 +291,7 @@ msgstr ""
 
 #: adjfeedback/models.py:129
 msgid "name"
-msgstr ""
+msgstr "名称"
 
 #: adjfeedback/models.py:130
 msgid "A short name for the question, e.g., \"Agree with decision\""
