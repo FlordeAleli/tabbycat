@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2020-03-17 15:58\n"
+"PO-Revision-Date: 2020-03-25 16:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -515,7 +515,7 @@ msgstr "性别"
 
 #: utils/templates/DragAndDropActions.vue:65
 msgid "Rank"
-msgstr ""
+msgstr "排名"
 
 #: utils/templates/DragAndDropActions.vue:65
 msgid "Region"
