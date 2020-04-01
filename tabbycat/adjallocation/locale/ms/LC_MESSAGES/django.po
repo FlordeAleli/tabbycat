@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-04 13:37-0500\n"
-"PO-Revision-Date: 2020-03-30 13:55\n"
+"PO-Revision-Date: 2020-04-01 04:20\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Malay\n"
 "Language: ms_MY\n"
@@ -37,7 +37,7 @@ msgstr "Tiada hakim yang layak untuk menjadi Yang Di-Pertua Dewan dan ahli panel
 
 #: adjallocation/allocators/hungarian.py:120
 msgid "There are no debates for this round. Maybe you haven't created a draw yet?"
-msgstr ""
+msgstr "Tiada perdebatan untuk pusingan ini. Munkin match up belum dibuat?"
 
 #: adjallocation/allocators/hungarian.py:167
 #, python-format
@@ -225,15 +225,15 @@ msgstr "braket minimum"
 
 #: adjallocation/models.py:120
 msgid "Estimate of the lowest bracket for which this panel might be"
-msgstr ""
+msgstr "Anggaran braket terendah untuk hakim ini"
 
 #: adjallocation/models.py:122
 msgid "maximum bracket"
-msgstr ""
+msgstr "braket maximum"
 
 #: adjallocation/models.py:123
 msgid "Estimate of the highest bracket for which this panel might be"
-msgstr ""
+msgstr "Anggaran braket tertinggi untuk hakim ini"
 
 #: adjallocation/models.py:125
 msgid "room rank"
